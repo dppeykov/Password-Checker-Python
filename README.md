@@ -8,7 +8,7 @@ Run the tool and provide the password/s as an argument/s.
 Example:
 
 ```
-python 
+python password_checker.py password1 password2 ...
 ```
 ## Modules used:
 
